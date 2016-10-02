@@ -1,0 +1,39 @@
+.container {
+
+	display: flex;
+	margin: 40px auto 40px auto;
+	background-color:rgb(232, 252, 255);
+	border-radius: 15px;
+
+}
+
+body {
+	width: 800px
+}
+
+.SectionTitle {
+	border-top: 2px solid;
+	font-size: 24px;
+}
+
+
+.Header {
+	font-style: bold;
+	color: black;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.Main {
+	font-style: normal;
+	font-family: Garamond, serif;
+	font-size: 18px;
+	margin: 20px 20px 20px 20px;
+}
+
+.nav {
+	min-width: 150px;
+	max-width: 15%;
+	flex: 1;
+	margin-top: 100px;
+}
