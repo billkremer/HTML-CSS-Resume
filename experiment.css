@@ -1,0 +1,45 @@
+.container {
+
+	display: flex;
+	margin: 40px 40px 40px 40px;
+	background-color:gray;
+	border-radius: 100px;
+	
+}
+
+body {
+width: calc(100% - 80px);
+}
+
+.SectionTitle {
+	border-top: 2px dotted;
+	border-color: lightgreen;
+	font-size: 24px;
+}
+
+
+.Header {
+	font-style: bold;
+	color: black;
+	font-family: "comic sans MS", sans-serif;
+
+}
+
+.Main {
+	font-style: italic;
+	font-family: "Book Antiqua", "Century Gothic", serif;
+	font-size: 18px;
+	margin: 20px 20px 20px 20px;
+}
+
+.nav {
+	min-width: 150px;
+	max-width: 15%;
+	flex: 1;
+	margin-top: 100px;
+}
+
+hr {
+	color: lightgreen;
+	border-style: dotted;
+}
