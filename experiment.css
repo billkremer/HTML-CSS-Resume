@@ -18,16 +18,16 @@ width: calc(100% - 80px);
 }
 
 
-.Header {
+#Header {
 	font-style: bold;
 	color: black;
-	font-family: "comic sans MS", sans-serif;
+	font-family: "Arial", sans-serif;
 
 }
 
 .Main {
 	font-style: italic;
-	font-family: "Book Antiqua", "Century Gothic", serif;
+	font-family: "Book Antiqua", Georgia, serif;
 	font-size: 18px;
 	margin: 20px 20px 20px 20px;
 }
