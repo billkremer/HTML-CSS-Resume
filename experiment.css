@@ -2,18 +2,19 @@
 
 	display: flex;
 	margin: 40px 40px 40px 40px;
-	background-color:gray;
+	background-color:#383D3B;
 	border-radius: 100px;
 	
 }
 
 body {
 width: calc(100% - 80px);
+	color: #eee5e9;
 }
 
 .SectionTitle {
 	border-top: 2px dotted;
-	border-color: lightgreen;
+	border-color: #52dee5;
 	font-size: 24px;
 }
 
@@ -21,7 +22,7 @@ width: calc(100% - 80px);
 #Header {
 	font-style: normal;
 	font-style: bold;
-	color: black;
+	color: #eee5e9;
 	font-family: "Arial", sans-serif;
 
 }
@@ -41,6 +42,6 @@ width: calc(100% - 80px);
 }
 
 hr {
-	color: lightgreen;
+	color: #52dee5;
 	border-style: dotted;
 }
