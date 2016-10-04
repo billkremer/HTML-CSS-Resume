@@ -39,6 +39,9 @@ width: calc(100% - 80px);
 	max-width: 15%;
 	flex: 1;
 	margin-top: 100px;
+	background-color: #86bbd8;
+	border-color: #7c7c7c;
+	border-style: dashed;
 }
 
 hr {
